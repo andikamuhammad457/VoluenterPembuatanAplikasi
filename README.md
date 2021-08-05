@@ -5,3 +5,4 @@ Repository ini digunakan sebagai sayembara volunter untuk pembuatan aplikasi Dic
 
 Berikut nama Volunter yang diterima:
 * Oon Arfiandi, [oo.or.id](https://oo.or.id).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
